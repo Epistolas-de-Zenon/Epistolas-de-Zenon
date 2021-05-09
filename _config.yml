@@ -17,9 +17,7 @@ social:
   - title: twitter
     url: 
   - title: paypal
-    url: https://paypal.me/kaththom?locale.x=es_XC
-  - title: paypal
-    url: 
+    url: https://paypal.me/EpistolasZenon?locale.x=es_XC
 # Build settings
 markdown: kramdown
 permalink: pretty
